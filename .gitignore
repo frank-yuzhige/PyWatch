@@ -1,0 +1,21 @@
+.cache
+*.log
+
+# Compiled python files
+*.py[co]
+
+# Packages
+*.egg
+.eggs
+*.egg-info
+dist
+build
+
+# venv
+venv/
+
+# Built documentation
+docs/_build/*
+
+# PyCharm custom settings
+.idea
